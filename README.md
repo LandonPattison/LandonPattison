@@ -1,1 +1,1 @@
-Currently building [FitAI](https://fitai.ai)
+Currently building [WeFit](https://WeFit.ai)
